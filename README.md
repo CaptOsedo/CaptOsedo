@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CaptOsedo
+- 👋 Hi, I’m Seun Obateru 
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
